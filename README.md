@@ -32,7 +32,7 @@
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/yourusername/utsav-app.git](https://github.com/yourusername/utsav-app.git)
+    https://github.com/Chetan11122005/Utsav
     ```
 2.  **Open in Xcode**
     Open `Utsav.xcodeproj` and ensure your target is set to **iOS 17.0** or later.
