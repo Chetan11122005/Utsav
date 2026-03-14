@@ -14,15 +14,6 @@
 * **Optimized for iOS 17+**: Utilizing the latest SwiftUI features for smooth performance and modern aesthetics.
 
 ---
-
-## 📸 Preview
-
-| Home Discovery | Expanded View | Hero Animation |
-| :--- | :--- | :--- |
-| ![Home](https://via.placeholder.com/200x400?text=Discovery+Feed) | ![Detail](https://via.placeholder.com/200x400?text=Holi+Detail) | ![UI](https://via.placeholder.com/200x400?text=Smooth+Transition) |
-
-
-
 ---
 
 ## 🛠 Tech Stack & Implementation
